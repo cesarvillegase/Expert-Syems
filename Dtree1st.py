@@ -1,3 +1,6 @@
+# Arbol de decisión
+
+# Se importa la libreria
 from sklearn.datasets import load_iris
 iris = load_iris()
 
@@ -77,7 +80,8 @@ for pairidx, pair in enumerate([[0, 1], [0, 2], [0, 3], [1, 2], [1, 3], [2, 3]])
 #plt.suptitle("Tarea")
 #plt.legend(loc='lower right', borderpad=0, handletextpad=0)
 #plt.axis("tight")
-  
+
+# Se grafica el arbol de decisión   
 from sklearn.tree import plot_tree
 plt.figure(figsize=(15,15))
 clf = DecisionTreeClassifier().fit(iris.data, iris.target)
