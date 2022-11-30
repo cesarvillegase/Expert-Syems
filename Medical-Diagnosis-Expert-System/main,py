@@ -1,3 +1,6 @@
+# Proyecto original creado por Vraj Gandhi
+# https://github.com/Victor-Titan/Medical-Diagnosis-Expert-System
+
 from experta import *
 
 class Greetings(KnowledgeEngine):
