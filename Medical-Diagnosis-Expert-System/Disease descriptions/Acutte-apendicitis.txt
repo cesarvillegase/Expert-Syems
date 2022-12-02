@@ -1,13 +1,13 @@
-Se define como dolor abdominal agudo cuando se caracteriza por tener una 
+Acute abdominal pain is defined as having an evolution of less
 
-evolución inferior a 48-72 horas, ser constante intenso y se acompaña de 
+than 48-72 hours, being constantly severe, and accompanied by
 
-frecuencia de vómitos, afectación del estado general y palpación abdominal 
+by frequent vomiting, general malaise and painful abdominal 
 
-dolorosa. El diagnóstico es clínico, pero según la sospecha clínica pueden 
+palpation. The diagnosis is clinical, but depending on the clinical
 
-ser necesarias pruebas complementarias como una ecografía abdominal, 
+suspicion, complementary tests such as ultrasound may be necessary, 
 
-radiografía de tórax o análisis de sangre u orina.  De este podemos partir 
+X-ray of thorax or analysis of blood or urine. From this we can assume
 
-a que sea apendicitis aguda
+that it is accute appendicitis. 

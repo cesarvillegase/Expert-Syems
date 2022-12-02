@@ -1,7 +1,7 @@
-La diabetes tipo 1 es una condición crítica que afecta la creación de células
+Type 1 diabetes is a critical condicion that affects the creation of insulin
 
-de insulina en el páncreas. Con esta condición no crean suficiente insulina,
+cells in the pancreas. With this condition, they do not create enough insulin, 
 
-una importante hormona que usa el páncreas. La insulina permite a las células 
+an important hormone used by the pancreas. Insulin allows the cells to store
 
-guardar glucosa o azúcar en la grasa y producir energía.
+glucose or sugar in fat and produce energy.

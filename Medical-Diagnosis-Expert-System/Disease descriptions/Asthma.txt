@@ -1,9 +1,9 @@
-El asma es una enfermedad heterogénea, que usualmente se caracteriza por la
- 
-inflamación crónica de las vías respiratorias. Se define por la historia de
+The Asthma is a heterogeneus disease, that is usually characterized
 
-los síntomas respiratorios como jadeo, falta de aire, opresión en el pecho y 
+by chronic inflammation of the airways. It is defined by a history of
 
-tos, que varían con el tiempo y la intensidad, junto con una limitación 
+a respiratory symptoms such as wheezing, shortness of breath, chest 
 
-variable del flujo aéreo espiratorio.
+tightness and cough, wich vary with time and intensity, along with a
+
+variable expiratory airflow limitation. 
