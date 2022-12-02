@@ -1,9 +1,0 @@
-The Asthma is a heterogeneus disease, that is usually characterized
-
-by chronic inflammation of the airways. It is defined by a history of
-
-a respiratory symptoms such as wheezing, shortness of breath, chest 
-
-tightness and cough, wich vary with time and intensity, along with a
-
-variable expiratory airflow limitation. 
